@@ -1,0 +1,1 @@
+This project is designed to continuously monitor sensor data from HVAC valves (and similar devices) to detect early signs of device malfunction. By leveraging time-series forecasting and predictive analytics, the system alerts homeowners via push notifications, SMS, or email when critical thresholds are exceeded, enabling proactive maintenance and reducing unexpected failures.
